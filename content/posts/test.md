@@ -1,8 +1,0 @@
-+++
-title = 'Test'
-date = 2024-12-09T11:21:15+09:00
-draft = true
-author = 'hsc'
-showAuthor = true
-+++
-Hello world.
