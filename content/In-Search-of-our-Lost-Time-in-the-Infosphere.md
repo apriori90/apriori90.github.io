@@ -5,13 +5,13 @@ title: In Search of our Lost Time in the Infosphere
 > An intense feeling of happiness runs through Marcel when he brings a spoonful of tea with a little soaked piece of madeleine to his lips:
 >
 > “An exquisite pleasure had invaded my senses, something isolated, detached, with no suggestion of its origin. And at once the vicissitudes of life had become indifferent to me, its disasters innocuous, its brevity illusory -- this new sensation having had the effect, which love has, of filling me with a precious essense; or rather this essense was not in me, it was me. I had ceased now to feel mediocre, contingent, mortal.”
-
+>
 > A small ‘fragment of time in the pure state’ (un peu de temps à l'état pur) is afforded Marcel.
-
+>
 > . . .
-
+>
 > A scent is slow. Thus, as a medium, it is not adapted to the age of haste. Scents cannot be presented in as fast a sequence as optical images.
-
+>
 > Byung-Chul Han, The Scent of Time
 
 The world is fragmented and each fragment are under the absolute domination of transparency. This implies that the concept of evil, Big Brother will slowly fade away. The conventional model of the digital panopticon evolved itself to make a unification between its control tower and residential area.
