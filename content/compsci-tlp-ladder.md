@@ -21,19 +21,19 @@ In LISP, simply putting an apostrophe (') preceding will give the sign of epoch�
 This was a significant problem found in Gottlob Frege's project, Begriffsschrift ("concept-language"). Nonetheless, its endeavour and experience turned into an important tool to investigate the limit of our language and make clear of what we can actually know. Long way around, this gave birth to the idea of abstract computational machine, by Alan Turing who also attended to Wittgenstein’s lectures on the foundations of mathematics, but couldn’t fully agree with it.
 Logical Space of Programming
 
-    §1. The world is everything that is the case.
-
-    §2. What is the case, a fact, is the obtaining of states-of-things.
-
-    §3. A logical picture of facts is a thought.
+> §1. The world is everything that is the case.
+>
+> §2. What is the case, a fact, is the obtaining of states-of-things.
+>
+> §3. A logical picture of facts is a thought.
 
 This can correspond to the primitive concept of an executable program and its source code. People often say that "everything is possible in the world of software." We cannot launch a rocket to the moon ONLY with software. However, we can imagine and define one's customized state-of-affair in our source code. Therefore, source code is a set of compound statements, waiting to get evaluated and tell us if the result is in our set of facts or not. This corresponds to §2: "What is the case, a fact, is the obtaining of states-of-things." This is a primitive concept for every evaluatable computer programming languages.
 Wittgenstein's Ladder
 
 The §6.54 has been a controversial statement since the publication of TLP.
 
-    §6.54 My propositions elucidate when someone who understands me finally recognizes them as nonsensical by using them to climb up, over, and out of them. (They must throw away the ladder, so to speak, having used it to climb up.)
-    They must get over these propositions, and then they see the world correctly.
+> §6.54 My propositions elucidate when someone who understands me finally recognizes them as nonsensical by using them to climb up, over, and out of them. (They must throw away the ladder, so to speak, having used it to climb up.)
+> They must get over these propositions, and then they see the world correctly.
 
 This gives us the impression that everything he's been talking about was merely a nonsensical idea. There are various interpretations about §6.54, and this paradoxical phrase, namely "Wittgenstein's Ladder", suggests reader to throw away the ladder of logic he used to guide us to the destination, §7.
 Programming by Demonstration and the Purity of Computational Action
