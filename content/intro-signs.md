@@ -1,6 +1,5 @@
 ---
 title: Introduction to Signs
-author: Kimiya Hirabayashi
 ---
 
 There exists many units of language. Morphemes, graphemes, phonemes; the list can go on potentially forever, as their existence is entirely contingent on linguists and their continued efforts in attempting to qualify a thing at once so fundamental and essential to our everyday existence, but at the same time complex enough to elude any one individual from describing it in exhaustivity. Let us not talk about units though, as is traditional for most disciplines or otherwise curious endeavours of analysis, and instead discuss an amalgamation of units, a totality of underlying layers, the “sign”.
@@ -11,3 +10,5 @@ According to Saussure, a sign must contain two elements in order to be distingui
 
 Saussure and his contemporaries and their successors, from this start point, have managed to carve out a formal system within the monolithic serendipity of human language; Order from chaos.
 
+
+Written By: Kimiya Hirabayashi
