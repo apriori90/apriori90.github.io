@@ -45,3 +45,5 @@ While this term is known as the so-called "end user development technique", we o
 If then, we can assume that, what Wittgenstein tried to do was to show us the logical action in the form of PbE. TLP created a whole new approach to the traditional logic and philosophy, but that is just a result it created. The importance of TLP is that it provides us the way to make a whole new logical work like Wittgenstein himself as well while producing the conclusion which helps us realize the limit of such a method.
 
 Henceforth, Source code (which is our language): Logic. Demonstration of PbE: The action of Logical Reasoning (which is the fact, also the ladder). Compiled Result (which is the case): The limit of our language.
+
+*Written by: HS Choi*

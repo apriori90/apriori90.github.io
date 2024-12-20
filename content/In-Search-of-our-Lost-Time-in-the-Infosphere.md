@@ -132,3 +132,5 @@ We should reconstruct the software industry’s capitalism which is hacked by pa
 
     Jaehee Kim, Infosphere and the Philosophy of Information, KIAS Horizon, 2021.
 
+
+*Written by: HS Choi*
