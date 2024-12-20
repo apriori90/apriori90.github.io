@@ -11,4 +11,4 @@ According to Saussure, a sign must contain two elements in order to be distingui
 Saussure and his contemporaries and their successors, from this start point, have managed to carve out a formal system within the monolithic serendipity of human language; Order from chaos.
 
 
-Written By: Kimiya Hirabayashi
+*Written By: Kimiya Hirabayashi*
