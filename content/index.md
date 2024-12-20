@@ -7,3 +7,9 @@ A priori's Digital Garden is the curated knowledge hub of the group a priori, de
 # Curated Articles
 - [[Introduction to Signs]]
 - [[compsci-tlp-ladder | Computational Scientific Interpretation of Wittgenstein's Tractatus Logico-Philosophicus and his 'Ladder']]
+- [[logic-syllogism-wittgenstein | Reflecting on the most famous formal logic syllogism from the Wittgenstein's stunning phrase.]]
+- [[In Search of our Lost Time in the Infosphere]]
+
+# Meeting Log
+
+# Members
