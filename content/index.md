@@ -6,3 +6,4 @@ A priori's Digital Garden is the curated knowledge hub of the group a priori, de
 
 # Curated Articles
 - [[Introduction to Signs]]
+- [Introduction to Signs]({{< relref "/intro-signs.md" >}})
