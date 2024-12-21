@@ -11,7 +11,8 @@ This Digital Garden is the curated knowledge hub of the group *A priori*, dedica
 - [[In Search of our Lost Time in the Infosphere]]
 
 # Meeting Log
-- [[meeting/December 10 2024 First Official Meeting | December 10 2024 — First Official Meeting]]
+- [[meeting/December 10 2024 First Official Meeting | December 10 2024 —  First Official Meeting]]
+- [[meeting/20241217                                | December 17 2024 —  Second Official Meeting]]
 
 # External Links
 - [Substack](https://apriori90.substack.com/)
