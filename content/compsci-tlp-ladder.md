@@ -40,7 +40,8 @@ The §6.54 has been a controversial statement since the publication of TLP.
 > They must get over these propositions, and then they see the world correctly.
 
 This gives us the impression that everything he's been talking about was merely a nonsensical idea. There are various interpretations about §6.54, and this paradoxical phrase, namely "Wittgenstein's Ladder", suggests reader to throw away the ladder of logic he used to guide us to the destination, §7.
-Programming by Demonstration and the Purity of Computational Action
+
+# Programming by Demonstration and the Purity of Computational Action
 
 In the Theoretical Computer Science, this Ladder may correspond to the action of the program. We picture facts with a programming language, full of statements. However, the action itself is not a source code, nor a compiled binary. The action is just an action, and its existence can only proved by demonstrating itself. Here, we can bring in the concept of Programming by Example (PbE, also known as Programming by Demonstration). In PbE, unlike traditional programming, the computer simply "records" the user's action demonstration and repeats it.
 
