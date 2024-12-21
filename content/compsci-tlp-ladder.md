@@ -3,12 +3,14 @@ title: Computational Scientific Interpretation of Wittgenstein's Tractatus Logic
 ---
 
 Ludwig Josef Johann Wittgenstein (1889~1951) was an Austrian Philosopher, often known for his huge contribution to the philosophy of logic, language and mathematics. His magnum opus, Tractatus Logico-Philosophicus penetrates one of the well-known, tricky philosophical questions. How should we handle the highest, the most abstract axioms of our linguistic system? Is it achievable to find a true meaning of any substance in our language?
-Linguistic determinism
+
+# Linguistic determinism
 
 Regardless of how human consciousness is created, it is clear that our language almost dominates our way of thinking. When we think of anything, we easily fall into the trap of assumption, thinking that our mind generates a vague object (often imagined as a graphical object), and it is verbalized later. However, is that really so?
 
 The idea of linguistic determinism is well pictured in the Sapir–Whorf hypothesis, asserting that one's culture and environment can influence the linguistic system and vocabulary. While this hypothesis is not actively accepted in academia, it's not because of the existence of empirical knowledge disproving the theory. It's merely because we have no formal method to completely prove this theory. Wittgenstein made a decent contribution to this field with his private language argument and language-game concept. Note that some of his work on this field (his later philosophy) is partially negating his work on TLP (his early philosophy).
-Limit of our Language
+
+# Limit of our Language
 
 There should be only two types of statements: primary statements and compound statements. The primary statement is considered as /atom/, and this concept projects its shadow on programming languages such as Scheme. Atom is something the Scheme interpreter should not evaluate anymore, because it is merely a value, proving its valid existence by itself. (logic and philosophy is required if you want to learn how to program instead of learning a domain-specific language.)
 
@@ -19,7 +21,8 @@ This shows us an intriguing paradox. According to the definition of compound sta
 In LISP, simply putting an apostrophe (') preceding will give the sign of epoché to the interpreter program. This is plausible only because the interpreter itself is also built with another programming language. (Here is a good question to think about: What if we try to build the interpreter with that of its language? How can projects like PyPy, building Python interpreter with Python, can exist?)
 
 This was a significant problem found in Gottlob Frege's project, Begriffsschrift ("concept-language"). Nonetheless, its endeavour and experience turned into an important tool to investigate the limit of our language and make clear of what we can actually know. Long way around, this gave birth to the idea of abstract computational machine, by Alan Turing who also attended to Wittgenstein’s lectures on the foundations of mathematics, but couldn’t fully agree with it.
-Logical Space of Programming
+
+# Logical Space of Programming
 
 > §1. The world is everything that is the case.
 >
@@ -28,7 +31,8 @@ Logical Space of Programming
 > §3. A logical picture of facts is a thought.
 
 This can correspond to the primitive concept of an executable program and its source code. People often say that "everything is possible in the world of software." We cannot launch a rocket to the moon ONLY with software. However, we can imagine and define one's customized state-of-affair in our source code. Therefore, source code is a set of compound statements, waiting to get evaluated and tell us if the result is in our set of facts or not. This corresponds to §2: "What is the case, a fact, is the obtaining of states-of-things." This is a primitive concept for every evaluatable computer programming languages.
-Wittgenstein's Ladder
+
+# Wittgenstein's Ladder
 
 The §6.54 has been a controversial statement since the publication of TLP.
 
