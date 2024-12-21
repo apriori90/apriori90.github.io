@@ -16,7 +16,7 @@ This Digital Garden is the curated knowledge hub of the group *A priori*, dedica
 # Members
 Some individuals may prefer not to have their name or picture displayed on the modern internet, so not everyone is listed here.
 
-| Profile                                                        | Name/Nick      |
-|----------------------------------------------------------------|----------------|
-| <img src="/static/images/profile/hsc.png" width="100">         | hsc            |
-| <img src="/static/images/profile/kimsterh.png" width="100">    | kimsterh       |
+| Profile                                                        | Name/Nick      | Bio                                     |
+|----------------------------------------------------------------|----------------|-----------------------------------------|
+| <img src="/static/images/profile/hsc.png" width="100">         | hsc            |                                         |
+| <img src="/static/images/profile/kimsterh.png" width="100">    | kimsterh       |                                         |
