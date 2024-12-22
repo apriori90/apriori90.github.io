@@ -30,3 +30,4 @@ Some individuals may prefer not to have their name or picture displayed on the m
 | <img src="/static/images/profile/hsc.png" width="100">         | hsc            | *``Strength of character, taste, the 'world', classical happiness, severe pride,<br>the cold frugality of the wise. (A. Camus)''*|
 | <img src="/static/images/profile/kimsterh.png" width="100">    | kimsterh       |                                                                                                                                  |
 | <img src="/static/images/profile/aman.jpg" width="100">        | aman           |                                                                                                                                  |
+| <img src="/static/images/profile/a.jpg" width="100">           | a              |                                                                                                                                  |
