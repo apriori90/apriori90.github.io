@@ -8,7 +8,7 @@ Following guidebook materials are suggested:
 
 - SEP Metaphysics (https://plato.stanford.edu/entries/metaphysics/)
 
-- The Problems of Philosophy by Bertrand Russell (https://www.gutenberg.org/ebooks/5827)
+- [[/reading/The Problems of Philosophy]] by Bertrand Russell (https://www.gutenberg.org/ebooks/5827)
 
 - W D Ross' commentary on Metaphysics (https://archive.org/details/in.ernet.dli.2015.190825/page/n9/mode/2up)
 

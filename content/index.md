@@ -17,7 +17,6 @@ This Digital Garden is the curated knowledge hub of the group *A priori*, dedica
 # Group Reading Project
 - [[reading/Metaphysics  | Aristotle's Metaphysics]]
 - [[reading/The Republic | Plato's The Republic]]
-- [[reading/Truth        | Truth by Thomas Aquinas]]
 
 # External Links
 - [Substack](https://apriori90.substack.com/)
