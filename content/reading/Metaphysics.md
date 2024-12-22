@@ -1,0 +1,3 @@
+---
+title: Aristotle's Metaphysics
+---

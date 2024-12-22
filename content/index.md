@@ -14,6 +14,11 @@ This Digital Garden is the curated knowledge hub of the group *A priori*, dedica
 - [[meeting/December 10 2024 First Official Meeting | December 10 2024 —  First Official Meeting]]
 - [[meeting/20241217                                | December 17 2024 —  Second Official Meeting]]
 
+# Group Reading Project
+- [[reading/Metaphysics  | Aristotle's *Metaphysics*]]
+- [[reading/The Republic | Plato's *The Republic*]]
+- [[reading/Truth        | *Truth* by Thomas Aquinas]]
+
 # External Links
 - [Substack](https://apriori90.substack.com/)
 - [Scrapbox](https://scrapbox.io/apriori/)
