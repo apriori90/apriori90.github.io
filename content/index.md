@@ -25,9 +25,9 @@ This Digital Garden is the curated knowledge hub of the group *A priori*, dedica
 # Members
 Some individuals may prefer not to have their name or picture displayed on the modern internet, so not everyone is listed here.
 
-| Profile                                                        | Name           | Bio                                                                                                                              |
-|----------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/static/images/profile/hsc.png" width="100">         | hsc            | *``Strength of character, taste, the 'world', classical happiness, severe pride,<br>the cold frugality of the wise. (A. Camus)''*|
-| <img src="/static/images/profile/kimsterh.png" width="100">    | kimsterh       |                                                                                                                                  |
-| <img src="/static/images/profile/aman.jpg" width="100">        | aman           |                                                                                                                                  |
-| <img src="/static/images/profile/a.jpg" width="100">           | a              |                                                                                                                                  |
+| Profile                                                     | Name           | Bio                                                                                                                                              |
+|-------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="/static/images/profile/hsc.png" width="100">      | [hsc](https://etatirreel.xyz/) | *``Strength of character, taste, the 'world', classical happiness, severe pride,<br>the cold frugality of the wise. (A. Camus)''*|
+| <img src="/static/images/profile/kimsterh.png" width="100"> | kimsterh                       |                                                                                                                                  |
+| <img src="/static/images/profile/aman.jpg" width="100">     | aman                           |                                                                                                                                  |
+| <img src="/static/images/profile/a.jpg" width="100">        | a                              |                                                                                                                                  |
