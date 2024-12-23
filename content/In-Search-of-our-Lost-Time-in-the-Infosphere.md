@@ -2,6 +2,8 @@
 title: In Search of our Lost Time in the Infosphere
 ---
 
+***H.S. Choi***
+
 > An intense feeling of happiness runs through Marcel when he brings a spoonful of tea with a little soaked piece of madeleine to his lips:
 >
 > “An exquisite pleasure had invaded my senses, something isolated, detached, with no suggestion of its origin. And at once the vicissitudes of life had become indifferent to me, its disasters innocuous, its brevity illusory -- this new sensation having had the effect, which love has, of filling me with a precious essense; or rather this essense was not in me, it was me. I had ceased now to feel mediocre, contingent, mortal.”
@@ -133,4 +135,3 @@ We should reconstruct the software industry’s capitalism which is hacked by pa
     Jaehee Kim, Infosphere and the Philosophy of Information, KIAS Horizon, 2021.
 
 
-*Written by: HS Choi*

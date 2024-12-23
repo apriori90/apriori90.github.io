@@ -2,6 +2,8 @@
 title: Reflecting on the most famous formal logic syllogism from the Wittgenstein's stunning phrase.
 ---
 
+*K.J. Kasahara*
+
 One of the most renowned examples of a formal logical syllogism is attributed to Aristotle:
 
     All humans are mortal.
@@ -46,5 +48,3 @@ Consequently, the assertion that all humans are mortal cannot be disproven throu
 
 The only verifiable truth is the mortality of those who are already dead. Therefore, we accept the premise that all humans are mortal.
 
-
-*Written by: K.J. Kasahara*

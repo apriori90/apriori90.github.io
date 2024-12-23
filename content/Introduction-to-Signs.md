@@ -2,6 +2,8 @@
 title: Introduction to Signs
 ---
 
+***K. Hirabayashi***
+
 There exists many units of language. Morphemes, graphemes, phonemes; the list can go on potentially forever, as their existence is entirely contingent on linguists and their continued efforts in attempting to qualify a thing at once so fundamental and essential to our everyday existence, but at the same time complex enough to elude any one individual from describing it in exhaustivity. Let us not talk about units though, as is traditional for most disciplines or otherwise curious endeavours of analysis, and instead discuss an amalgamation of units, a totality of underlying layers, the “sign”.
 
 Signs, when spoken of through the lens of analysis, refers to a conceivable thing that contains form, dynamism, meaning, and purpose. The study of such things has been called “semiotics” by those involved for the past century, as this field of study has developed a rigorous academic character. One of the founders of this academic field, as well as one of the coiners of the word “semiotics” or “semiology” according to him, was Ferdinand de Saussure. Saussure, a Swiss philologist and philosopher, was among the first in modernity to describe language as a formal network of meaning, a semantic system. He assigned these forms “signs”, and his approach in qualifying these signs has become foundational in modern analytic linguistics.
@@ -10,5 +12,3 @@ According to Saussure, a sign must contain two elements in order to be distingui
 
 Saussure and his contemporaries and their successors, from this start point, have managed to carve out a formal system within the monolithic serendipity of human language; Order from chaos.
 
-
-*Written By: Kimiya Hirabayashi*
