@@ -2,7 +2,7 @@
 title: Reflecting on the most famous formal logic syllogism from the Wittgenstein's stunning phrase.
 ---
 
-*K.J. Kasahara*
+***K. J. Kasahara***
 
 One of the most renowned examples of a formal logical syllogism is attributed to Aristotle:
 
